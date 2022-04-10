@@ -1,0 +1,23 @@
+1-22-3(-4)-NAME
+
+1 - Type/material
+	- PF: foam part
+	- PW: wood part
+	- PP: plastic part
+	- PM: metal part
+	- C: commertial
+	- A: assembly
+
+2 - Part number
+	- from zero to N < 100, unique for each material/assembly
+
+3 - Orientation
+	- L: left
+	- R: right
+	- 0: symmetrical
+
+(4) - Production state (only for parts)
+	- 0: first state
+	- n: n-th state
+
+NAME - short name of the part (only in folder names)

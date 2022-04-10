@@ -1,0 +1,19 @@
+Motor		Racestar BR0806
+ESC		BHeli 6A
+Battery 	1s lipo 850 mah
+Servo		1.7g micro
+
+
+Motor		EMAX RS1106
+ESC		BHeli 12A
+Battery 	2s lipo 850 mah
+Servo		1.7g micro
+Propeller	3025 2 blade 2s
+
+
+Motor		EMAX MT1806 2280kv
+ESC		BHeli 12A		
+Servo		3.7g micro
+Propeller	5030 CF
+Receiver	FS2A-4CH
+Battery 	2s lipo 600 mah
