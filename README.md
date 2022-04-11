@@ -13,7 +13,7 @@ This project is a legal sized trainer RC aircraft design
         
 - 4 Channels:   Throttle - Elevator - Rudder - Ailerons
 
-- Materials:
+# Materials:
   - 5 mm foam board sheet
   - 3 mm plywood sheet
   - 4 mm BBQ stick
