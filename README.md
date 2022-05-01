@@ -4,7 +4,7 @@ This project is a legal sized trainer RC aircraft design
 
 # Specifications:
 
-- Mass:         181 g
+- Mass:         182 g
 - Length:       520 mm
 - Wingspawn:    708 mm
 - CG:           157 mm
